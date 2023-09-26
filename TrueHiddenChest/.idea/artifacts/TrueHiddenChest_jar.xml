@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TrueHiddenChest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TrueHiddenChest_jar</output-path>
+    <root id="archive" name="TrueHiddenChest.jar">
+      <element id="module-output" name="TrueHiddenChest" />
+    </root>
+  </artifact>
+</component>
